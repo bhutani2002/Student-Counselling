@@ -9,5 +9,8 @@ app.get('/', function(req, res){
 app.get('/iit', function(req, res){
    res.render("iit");
 });
+app.get('/neet', function(req, res){
+   res.render("neet");
+});
 console.log("Server Started on port 8080");
 app.listen(8080);
