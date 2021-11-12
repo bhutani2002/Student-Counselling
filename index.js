@@ -6,5 +6,8 @@ app.use(express.static("views/static"));
 app.get('/', function(req, res){
    res.render("home");
 });
+app.get('/iit', function(req, res){
+   res.render("iit");
+});
 console.log("Server Started on port 8080");
 app.listen(8080);
