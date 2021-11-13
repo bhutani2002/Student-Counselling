@@ -12,5 +12,8 @@ app.get('/iit', function(req, res){
 app.get('/neet', function(req, res){
    res.render("neet");
 });
+app.get('/aim', function(req, res){
+   res.render("aim");
+});
 console.log("Server Started on port 8080");
 app.listen(8080);
