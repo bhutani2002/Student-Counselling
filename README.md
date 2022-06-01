@@ -1,6 +1,6 @@
 # Team Name : Geeky Trio / Squad
 
-Deployed Website Link - [Student-Counselling](http://app-f5e1f0ad-01f6-4625-afd3-c624cc282157.cleverapps.io/)
+Deployed Website Link - [Student-Counselling](http://app-442dfdc8-57a1-4ecd-882b-9f918a319f81.cleverapps.io/)
 
 # The Problem
 Since every year the entrance exams are held and always there is a constant hustle around millions of students to get their desired seat. And here, counselling plays a major role in admissions to any of the colleges in India.
