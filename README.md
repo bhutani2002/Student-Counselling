@@ -16,23 +16,23 @@ We decided to build a web app, a one-stop destination to solve all this chaos. W
 
 ## Screenshots
 #### Home Page
-![Home Page!](./views/static/images/Screen-Shots/Home-Page-ss.png "Home-Page")
+![Home Page!](./views/static/images/Screen-Shots/Home-Page-ss.png)
 
 
 #### IIT/JEE Page
-![IIT/JEE Page!](./views/static/images/Screen-Shots/IIT-Page-ss.png "IIT/JEE-Page")
+![IIT/JEE Page!](./views/static/images/Screen-Shots/IIT-Page-ss.png)
 
 
 #### NEET Page
-![NEET Page!](./views/static/images/Screen-Shots/NEET-Page-ss.png "NEET-Page")
+![NEET Page!](./views/static/images/Screen-Shots/NEET-Page-ss.png)
 
 
 #### OBJECTIVE Page
-![OBJECTIVE Page!](./views/static/images/Screen-Shots/Objective-Page-ss.png "OBJECTIVE-Page")
+![OBJECTIVE Page!](./views/static/images/Screen-Shots/Objective-Page-ss.png)
 
 
 #### CONTACT-US Page
-![CONTACT-US Page!](./views/static/images/Screen-Shots/Contact-Us-Page-ss.png "CONTACT-Page")
+![CONTACT-US Page!](./views/static/images/Screen-Shots/Contact-Us-Page-ss.png)
 
 
 
