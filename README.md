@@ -16,23 +16,25 @@ We decided to build a web app, a one-stop destination to solve all this chaos. W
 
 ## Screenshots
 #### Home Page
-![Home Page!](./views/static/images/Screen-Shots/Home-Page-ss.png)
+![Home-Page-ss](https://user-images.githubusercontent.com/84590758/212461516-999c7dc0-b4e4-45ef-be10-467f990fb331.png)
+
 
 
 #### IIT/JEE Page
-![IIT/JEE Page!](./views/static/images/Screen-Shots/IIT-Page-ss.png)
+![IIT-Page-ss](https://user-images.githubusercontent.com/84590758/212461510-945e88e7-16e4-4e19-a808-a9757679b45d.png)
+
 
 
 #### NEET Page
-![NEET Page!](./views/static/images/Screen-Shots/NEET-Page-ss.png)
+![NEET-Page-ss](https://user-images.githubusercontent.com/84590758/212461505-5707c062-cb7c-4448-b05a-6e9bef46571d.png)
 
 
 #### OBJECTIVE Page
-![OBJECTIVE Page!](./views/static/images/Screen-Shots/Objective-Page-ss.png)
-
+![Objective-Page-ss](https://user-images.githubusercontent.com/84590758/212461429-a830c379-3d13-46a2-89f0-a155a31fd83a.png)
 
 #### CONTACT-US Page
-![CONTACT-US Page!](./views/static/images/Screen-Shots/Contact-Us-Page-ss.png)
+![Contact-Us-Page-ss](https://user-images.githubusercontent.com/84590758/212461401-713679ab-0d0d-4887-b24c-61638cc237b1.png)
+
 
 
 
